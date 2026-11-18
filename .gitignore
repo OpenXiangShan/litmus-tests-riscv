@@ -9,3 +9,5 @@ herd-tests.d
 gcc.excl
 exclude-instructions
 instructions.excl
+
+__pycache__/
